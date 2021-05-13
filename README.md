@@ -1,6 +1,6 @@
-# badgeboard of react-component
+# badgeboard of wc-component
 
-check: http://react-component.github.io/badgeboard
+check: https://kavience.github.io/badgeboard/
 
 ## build
 

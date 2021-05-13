@@ -6,15 +6,17 @@ name: react-component
 badge_style: flat
 
 # meta headers in html
-title: react-component
-description: React components foundation of ant.design
-keywords: react-component, antd, ant design, react ui
+title: willow-component
+description: React components foundation of willow.design
+keywords: react-component, willow-component, willow design
 
 # list of projects, this will be sorted by name;
 # every package is either string or object
 projects:
  - wc-input-number:
      repo: kavience/wc-input-number
+ - wc-checkbox:
+     repo: kavience/wc-checkbox
 
 
 # list of maintainers, this won't be sorted
